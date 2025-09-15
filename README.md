@@ -12,17 +12,19 @@ This project predicts the creditworthiness of individuals using machine learning
 - `cs_training.csv` used for training
 
 ## Folder Structure
-CodeAlpha_Credit_Worthiness_Prediction/<br>
-│<br>
-├── data/<br>
-│   ├── cs_training # Original dataset<br> 
-│   ├── cleaned_credit_data # Processed dataset<br>
-│<br>
-├── notebook/               # Jupyter notebooks for exploration and experiments<br>
-│   ├── creditworthiness_notebook.ipynb<br>
-│<br>
-├── app.py                   # Streamlit app for frontend<br>
-├── README.md<br>
+```plaintext
+CodeAlpha_Credit_Worthiness_Prediction/
+│
+├── data/
+│   ├── cs_training              # Original dataset
+│   ├── cleaned_credit_data      # Processed dataset
+│
+├── notebook/                    
+│   ├── creditworthiness_notebook.ipynb   # Jupyter notebook for exploration and experiments
+│
+├── app.py                       # Streamlit app for frontend
+├── README.md
+```
 
 ## Installation<br>
 
@@ -54,7 +56,7 @@ Add multiple ML models and compare their performance.<br>
 Implement advanced feature engineering for better predictions.<br>
 Deploy the app online for public access.<br>
 
-**Author**<br>
+## **Author**<br>
 Janhavi Sakhare<br>
 B.Tech Student | AI & Data Science Enthusiast<br>
 GitHub: janhavi455<br>
