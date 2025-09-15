@@ -1,4 +1,4 @@
-# CodeAlpha Credit Worthiness Prediction
+# Credit Worthiness Prediction
 
 ## Project Overview
 This project predicts the creditworthiness of individuals using machine learning techniques. It assesses loan eligibility based on financial and demographic features.
