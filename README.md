@@ -30,12 +30,17 @@ CodeAlpha_Credit_Worthiness_Prediction/
 ```bash
 git clone https://github.com/janhavi455/CodeAlpha_Credit_Worthiness_Prediction.git
 cd CodeAlpha_Credit_Worthiness_Prediction
+```
 
 2. Install dependencies
+```bash
 pip install -r requirements.txt
+```
 
 3. Run the Streamlit app
+```
 streamlit run app.py
+```
 Your browser will open the app where you can input customer details and get creditworthiness predictions.
 
 ## Usage
