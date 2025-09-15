@@ -26,6 +26,7 @@ CodeAlpha_Credit_Worthiness_Prediction/
 │   ├── creditworthiness_notebook.ipynb   # Jupyter notebook for exploration and experiments
 │
 ├── app.py                       # Streamlit app for frontend
+├── requirements.txt
 ├── README.md
 ```
 
