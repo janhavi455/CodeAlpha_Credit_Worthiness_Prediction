@@ -19,6 +19,9 @@ CodeAlpha_Credit_Worthiness_Prediction/
 │   ├── cs_training              # Original dataset
 │   ├── cleaned_credit_data      # Processed dataset
 │
+├── models/                      
+│   ├── creditworthiness_model.pkl         # Saved trained model
+│
 ├── notebook/                    
 │   ├── creditworthiness_notebook.ipynb   # Jupyter notebook for exploration and experiments
 │
